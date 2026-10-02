@@ -1,0 +1,44 @@
+Starting Nmap 7.991 ( https://nmap.org ) at 2026-10-02 21:28 +0300
+Stats: 0:03:55 elapsed; 252 hosts completed (3 up), 3 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 74.19% done; ETC: 21:33 (0:00:49 remaining)
+Nmap scan report for 192.168.1.1
+Host is up (0.0071s latency).
+Not shown: 992 closed tcp ports (reset)
+PORT     STATE SERVICE
+53/tcp   open  domain
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+1001/tcp open  webpush
+1002/tcp open  windows-icfw
+1900/tcp open  upnp
+MAC Address: 10:27:F5:1F:FC:BE (TP-Link Systems)
+
+Nmap scan report for 192.168.1.100
+Host is up (0.33s latency).
+All 1000 scanned ports on 192.168.1.100 are in ignored states.
+Not shown: 955 filtered tcp ports (no-response), 45 closed tcp ports (reset)
+MAC Address: 44:78:3E:78:33:D2 (Samsung Electronics)
+
+Nmap scan report for 192.168.1.104
+Host is up (0.24s latency).
+All 1000 scanned ports on 192.168.1.104 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 50:50:A4:E3:C7:A2 (Samsung Electronics)
+
+Nmap scan report for 192.168.1.103
+Host is up (0.000027s latency).
+Not shown: 993 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+2179/tcp open  vmrdp
+3306/tcp open  mysql
+7000/tcp open  afs3-fileserver
+7070/tcp open  realserver
+
+Nmap done: 256 IP addresses (4 hosts up) scanned in 1518.05 seconds
+
+C:\Users\Hp>
