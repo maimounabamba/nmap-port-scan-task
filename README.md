@@ -19,8 +19,8 @@ Discover open ports on devices in my local network to understand network exposur
 6. Reviewed the open ports found and noted potential risks.
 
 ## Results
-Full output is in [`results/nmap-scan.txt`](results/nmap-scan.txt).
-Wireshark capture is in [`results/wireshark-capture1.pcapng`](results/wireshark-capture1.pcapng), with a screenshot in [`results/wireshark-screenshot.png`](results/wireshark-screenshot.png).
+Full output is in [`results/results/nmap-scan.txt`](results/results/nmap-scan.txt).
+Wireshark capture is in [`results/results/wireshark-capture1.pcapng`](results/results/wireshark-capture1.pcapng), with a screenshot in [`results/results/Screenshot 2026-10-02 215713.png`](results/results/Screenshot%202026-10-02%20215713.png).
 
 ### Key Findings
 | Device | Notable Open Ports | Risk Note |
